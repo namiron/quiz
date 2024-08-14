@@ -34,3 +34,5 @@ export const questions = [
     correct: 2,
   },
 ];
+
+export const test = ``;
